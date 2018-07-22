@@ -1,0 +1,115 @@
+.content-wrapper {
+	background-color: #222941;
+}
+
+h6 {
+	color: #8D9CCC;
+	padding-right: 2%;
+}
+
+h3.box-title {
+	color: #8D9CCC;
+}
+
+.well {
+	background-color: #222941;
+	border: #222941;
+}
+
+body {
+	color : #8D9CCC;
+	font-family: "Calibri";
+}
+
+.skin-purple .sidebar-menu > li.active > a{
+    color: #00A65A;
+}
+
+.skin-purple .sidebar-menu > li:hover > a {
+    color: #18BFB0;
+}
+
+.box.box-solid.box-primary > .box-header {
+	background : #2E3858;
+	background-color: #2E3858;
+}
+
+.box.box-solid.box-primary {
+	border: none;
+}
+
+.skin-purple .left-side, .skin-purple .main-sidebar, .skin-purple .wrapper{
+	background-color: #212840;
+}
+
+.selectize-input.full {
+	background-color: #2E3858;
+	border-color: #2E3858;
+}
+
+.selectize-dropdown, .selectize-input, .selectize-input input {
+	color: #8D9CCC;
+}
+
+.selectize-dropdown, .selectize-dropdown.form-control {
+	background: #2E3858;
+}
+
+.selectize-input, .selectize-control.single .selectize-input.input-active {
+	background: #2E3858;
+	cursor: text;
+	display: inline-block;
+}
+
+.skin-purple .sidebar-menu > li.active > a, .skin-purple .sidebar-menu > li:hover > a {
+	background: #2E3858;
+	border-color: blueviolet;
+}
+
+.alert-info, .bg-aqua, .callout.callout-info, .label-info, .modal-info .modal-body {
+    background-color: #E37868 !important;
+}
+
+.alert-success, .bg-green, .callout.callout-success, .label-success, .modal-success .modal-body {
+    background-color: #FC963C !important;
+}
+
+.alert-warning, .bg-yellow, .callout.callout-warning, .label-warning, .modal-warning .modal-body {
+    background-color: #A35BF5 !important;
+}
+
+.skin-purple .main-header .navbar {
+	background-color: #181f36;
+}
+
+.bg-light-blue, .label-primary, .modal-primary .modal-body {
+	background-color: #2e3858 !important;
+}
+
+.logo, .sidebar-toggle {
+	background-color: #181F36 !important;
+}
+
+.selectize-control.single .selectize-input:after {
+    border-color: #7F9CCC transparent transparent transparent;
+}
+
+.box.box-primary {
+    border-top-color: #2E3858;
+}
+
+.box {
+    position: relative;
+    border-radius: 3px;
+    background: #2E3858;
+    border-top: 3px solid #2E3858;
+    border-top-color: rgb(46, 56, 88);
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px #2E3858;
+}
+
+/*.active {
+	background-color: #181F36 !important;
+}*/
+
